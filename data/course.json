@@ -1,0 +1,29 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3a860aa3-0530-94c1-9a2d-a7504d4b3101",
+      "3aeeec7d-0d6d-fbcb-1a1e-3816cd93b43a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Phonology",
+  "course_description": "This course focuses on phonological phenomena that are sensitive to morphological structure, including base-reduplicant identity, cyclicity, level ordering, derived environment effects, opaque rule interactions, and morpheme structure constraints. In the recent OT literature, it has been claimed that all of these phenomena can be analyzed with a single theoretical device: correspondence constraints, which regulate the similarity of lexically related forms (such as input and output, base and derivative, base and reduplicant).\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.962",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
